@@ -1,14 +1,15 @@
-# Default starter for Gridsome
+# Dev and Hobby Blog
 
-This is the project you get when you run `gridsome create new-project`.
+This is a place where I will post about various things I pick up in my Software Engineering life, as well as all of my various hobbies.
 
-### 1. Install Gridsome CLI tool if you don't have
+## To Start and Run Locally
+### 1. Checkout or Fork the Repo
+
+### 2. Install Gridsome CLI tool if it is not
 
 `npm install --global @gridsome/cli`
 
-### 2. Create a Gridsome project
+### 3. Navigate into Project Directory and Start
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+1. `cd dev-blog` to open the directory
+2. `gridsome develop` to start a local server at `http://localhost:8080`
